@@ -9,12 +9,12 @@ this module requires **Promise** and **WeakMap**,
 you should use polyfill or shim if they are not
 supported natively
 
-## install
+## Installation
 ```bash
 npm install node-ipc-promise
 ```
 
-## basic usage
+## Basic Usage
 
 Parent process
 ```js
